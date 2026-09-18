@@ -1,0 +1,13 @@
+PLANTVISION ANALYSIS SUMMARY
+============================
+
+Image Height: 512
+Image Width: 512
+Edge Pixels: 11309
+Edge Percentage: 4.31
+Sift Keypoints: 856
+Hog Feature Length: 142884
+Gabor Orientations: 4
+Gabor Mean Response: 4.558
+
+GrabCut Foreground Percentage: 36.96%
